@@ -56,7 +56,7 @@ Add the final citation once the manuscript is published. A suggested placeholder
 
 > Serrano‑Malebrán, J., *et al.* (forthcoming). *Green Human Resource Practices and Sustainable Advantage: Evidence from the Chilean Mining Sector*.
 
-You can also add a `CITATION.cff` file once author list / venue / DOI are final.
+
 
 ## License
 
